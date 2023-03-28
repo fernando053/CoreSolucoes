@@ -1,0 +1,1 @@
+Data Source=DESKTOP-S8LC1GR\SQLEXPRESS;Initial Catalog=ClienteB;Integrated Security=True;

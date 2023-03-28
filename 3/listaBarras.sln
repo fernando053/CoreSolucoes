@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaBarras", "listaBarras\listaBarras.csproj", "{C8C8BCC9-6D4A-40F5-BAA0-8EEEA17F321D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C8BCC9-6D4A-40F5-BAA0-8EEEA17F321D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C8BCC9-6D4A-40F5-BAA0-8EEEA17F321D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C8BCC9-6D4A-40F5-BAA0-8EEEA17F321D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C8BCC9-6D4A-40F5-BAA0-8EEEA17F321D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA9154D4-7853-465A-9CF0-2868EB1050B6}
+	EndGlobalSection
+EndGlobal
