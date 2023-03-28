@@ -1,5 +1,5 @@
 # Projects-Fernando
- O estagiário Fernando está trabalhando em um repositório de projetos, que pode ser usado para armazenar códigos-fonte, documentação e outros arquivos relacionados a diferentes projetos.
+ O estagiário Fernando está a trabalhar em um repositório de projetos, que pode ser usado para armazenar códigos-fonte, documentação e outros arquivos relacionados a diferentes projetos.
 # Projetos 
 ## 1. Teclado aleatorio
 ![image](https://user-images.githubusercontent.com/50460047/228270142-46989aa9-a6bb-42d0-8bc5-f3e48f6bb1c8.png)
